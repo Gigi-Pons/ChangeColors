@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ChangeColors/static/css/main.f319ff2b.css",
+    "main.js": "/ChangeColors/static/js/main.4645c124.js",
+    "index.html": "/ChangeColors/index.html",
+    "main.f319ff2b.css.map": "/ChangeColors/static/css/main.f319ff2b.css.map",
+    "main.4645c124.js.map": "/ChangeColors/static/js/main.4645c124.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f319ff2b.css",
+    "static/js/main.4645c124.js"
+  ]
+}
